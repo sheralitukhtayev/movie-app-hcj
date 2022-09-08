@@ -58,7 +58,7 @@
         return 'red'
       }
     }
-  // 
+
     form.addEventListener('submit', (e) => {
       e.preventDefault();
   
